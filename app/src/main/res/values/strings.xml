@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fred Premier Android</string>
+    <string name="hello">Hello World !!!!!!!!!</string>
+    <string name="noradio">Pas de radio sélectionné</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="send">Send</string>
+</resources>

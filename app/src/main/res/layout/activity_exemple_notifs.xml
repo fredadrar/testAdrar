@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context="com.premier.fred.fredpremierandroid.ExempleNotifsActivity">
+
+    <Button
+        android:id="@+id/bt_immediat"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="20dp"
+        android:backgroundTint="@android:color/holo_red_light"
+        android:text="Notif immédiate" />
+
+    <Button
+        android:id="@+id/bt_delayed"
+        android:layout_width="150dp"
+        android:layout_height="60dp"
+        android:backgroundTint="@android:color/holo_orange_light"
+        android:text="Notif délayée" />
+</LinearLayout>

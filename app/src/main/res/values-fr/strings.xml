@@ -1,0 +1,5 @@
+<resources>
+    <string nom="app_name">Fred Premier Android</string>
+    <string nom="hello">Bonjour World !!!!!!!!!</string>
+    <string name="send">Env</string>
+</resources>
